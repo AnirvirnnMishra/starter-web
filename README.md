@@ -13,3 +13,5 @@ This is a simple file
  cannot be deployed without further assistance
  
  only commited not pushed
+ only staged not commited
+ not staged only modified
